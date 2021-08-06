@@ -1,0 +1,5 @@
+bash src/antismash_gpa.sh BGC0000832_clorobiocin
+bash src/antismash_gpa.sh AF170880_novobiocin
+bash src/antismash_gpa.sh BGC0000141_rubradirin
+bash src/antismash_gpa.sh BGC0001287_chaxamycin
+bash src/antismash_gpa.sh BGC0000833_.coumermycinA1
